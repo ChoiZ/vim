@@ -35,3 +35,6 @@ set encoding=utf-8 " display into utf-8
 set fileencoding=utf-8 " write file as utf-8
 set fileencodings=utf-8
 set nobomb " don't use BOM
+
+" display special chars like tab, nbsp, trail, and display precedes / extends for long lines without wrap.
+set list listchars=tab:→\ ,nbsp:␣,trail:•,precedes:«,extends:»
