@@ -1,7 +1,7 @@
 # VIM Intro
 
-- [English](en/01.md)
+[English](en/index.md)
 
-- [Español](es/01.md)
+[Español](es/index.md)
 
-- [Français](fr/01.md)
+[Français](fr/index.md)
