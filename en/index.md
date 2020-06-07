@@ -84,3 +84,33 @@ Let's move the cursor even faster to the beginning or end of the line or file.
 
 `G` moves the cursor to the end of the file we can also use `:$`
 
+# Insert commands
+
+`i` Insert text before the cursor.
+
+`I` Insert text before the first non-blank in the line.
+
+`a` Append text after the cursor.
+
+`A` Append text at the end of the line.
+
+`o` Begin a new line below the cursor and insert text.
+
+`O` Begin a new line above the cursor and insert text.
+
+# It's panic
+
+## Undo, redo
+
+`u` undo changes.
+
+`CTRL+R` redo changes.
+
+## Quit without saving
+
+`:cq` cancel and quit, Vim return non-zero error (exit without error).
+
+`:q!` quit without saving.
+
+`:qa` to quit all files without saving.
+

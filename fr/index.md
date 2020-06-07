@@ -84,3 +84,33 @@ Déplaçons le curseur encore plus rapidement au début ou à la fin de la ligne
 
 `G` déplace le curseur à la fin du fichier, on peut aussi utiliser `:$`.
 
+# Commandes d'insertion
+
+`i` Inserer du texte avant le curseur.
+
+`I` Inserer du texte avant le premier caractere non-blanc (qui n'est pas une espace) dans la ligne.
+
+`a` Ajouter du texte après le curseur.
+
+`A` Ajouter du texte a la fin de la ligne.
+
+`o` Créer une nouvelle ligne en dessous du curseur et passe en mode insertion.
+
+`O` Créer une nouvelle ligne au dessus du curseur et passe en mode insertion.
+
+# C'est la panique
+
+## Annuler / refaire
+
+`u` annule le dernier changement.
+
+`CTRL+R` réapplique ce qui vient d'être annulé.
+
+## Quitter Vim sans sauver
+
+`:cq` annule et quitte (cancel and quit), Vim retourne une erreur 1 (quitte vim sans sortie d'erreur).
+
+`:q!` quitter sans sauver.
+
+`:qa` quitter tous les fichiers sans sauver.
+

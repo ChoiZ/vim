@@ -84,3 +84,33 @@ Movamos el cursor aún más rápido al principio o al final de la línea o del a
 
 `G` mueve el cursor hasta el final del archivo, también podemos usar `:$`.
 
+# Insercíon comandos
+
+`i` Inserta el texto antes del cursor.
+
+`I` Inserta el texto antes del primer non-blanco (que no es un espacio) en la línea.
+
+`a` Añadir el texto despues del cursor.
+
+`A` Añadir el texto al final de la línea.
+
+`o` Empezar una nueva línea debajo del cursor y pasar en modo insercíon.
+
+`O` Empezar una nueva línea encima del cursor y pasar en modo insercíon.
+
+# Es el pánico
+
+## Deshacer, rehacer
+
+`u` deshacer.
+
+`ctrl+r` rehacer.
+
+## Salir sin guardar
+
+`:cq` cancelar y salir (cancel and quit), Vim regresa el error 1 (exit without error).
+
+`:q!` salir sin guardar.
+
+`:qa` salir de todos los archivos sin guardar.
+
