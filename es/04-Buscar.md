@@ -1,4 +1,4 @@
-# Buscar
+[# Buscar](#Buscar)
 
 /{palabra} | ?{palabra} busca la `palabra` arriba | abajo
 

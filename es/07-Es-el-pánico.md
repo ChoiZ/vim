@@ -1,4 +1,4 @@
-# Es el pánico
+[# Es el pánico](#Es-el-pánico)
 
 ## Deshacer, rehacer
 

@@ -1,4 +1,4 @@
-# C'est la panique
+[# C'est la panique](#C-est-la-panique)
 
 ## Annuler / refaire
 

@@ -1,4 +1,4 @@
-# Insert commands
+[# Insert commands](#Insert-commands)
 
 `i` Insert text before the cursor.
 

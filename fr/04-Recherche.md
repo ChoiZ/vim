@@ -1,4 +1,4 @@
-# Recherche
+[# Recherche](#Rechercher)
 
 /{mot} | ?{mot} cherche "mot" en bas | en haut
 

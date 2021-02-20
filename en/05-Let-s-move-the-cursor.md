@@ -1,4 +1,4 @@
-# Let's move the cursor!
+(# Let's move the cursor!)[#Let-s-move-the-cursor]
 
 To move the cursor, you can use the arrows, but I advise you to use `h`,`j`,`k`,`l` instead.
 

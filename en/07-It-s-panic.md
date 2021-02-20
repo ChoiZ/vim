@@ -1,4 +1,4 @@
-# It's panic
+[# It's panic](#It-s-panic)
 
 ## Undo, redo
 

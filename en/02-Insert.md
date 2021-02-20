@@ -1,4 +1,4 @@
-# Insert
+[# Insert](#Insert)
 
 In Normal mode:
 
@@ -9,7 +9,7 @@ In Insert mode:
 
 `<Esc>`   End Insert mode, go back to Normal mode.
 
-or:
+`CTRL-C`  Same as `<ESC>`.
 
-`CTRL-C`
+`CTRL-V`  To insert special characters like tab, `CTRL-V` `TAB`.
 

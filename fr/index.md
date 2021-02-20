@@ -23,9 +23,9 @@ En mode Insertion :
 
 `<Esc>`   Quitte le mode Insertion, retourne au mode Normal.
 
-ou :
+`CTRL-C`  Identique à `<ESC>`.
 
-`CTRL-C`
+`CTRL-V`  Pour insérer des caractères spéciaux comme tab, `CTRL-V` `TAB`.
 
 # Enregistrer et quitter
 
