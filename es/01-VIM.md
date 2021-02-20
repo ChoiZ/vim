@@ -1,4 +1,4 @@
-[# VIM](#VIM)
+# VIM
 
 Por defecto, VIM se inicia en modo Normal.
 

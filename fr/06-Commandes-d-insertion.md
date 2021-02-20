@@ -1,4 +1,4 @@
-[# Commandes d'insertion](#Commandes-d-insertion)
+# Commandes d'insertion
 
 `i` Inserer du texte avant le curseur.
 

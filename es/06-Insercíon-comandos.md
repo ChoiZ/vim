@@ -1,4 +1,4 @@
-[# Insercíon comandos](#Insercíon-comandos)
+# Insercíon comandos
 
 `i` Inserta el texto antes del cursor.
 

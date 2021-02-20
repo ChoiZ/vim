@@ -1,4 +1,4 @@
-[# Search](#Search)
+# Search
 
 /{word} | ?{word} searches `word` down | `word` up
 

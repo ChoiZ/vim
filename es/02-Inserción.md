@@ -1,4 +1,4 @@
-[# Inserción](#Inserción)
+# Inserción
 
 En el modo Normal:
 

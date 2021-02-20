@@ -1,4 +1,4 @@
-[# Insert](#Insert)
+# Insert
 
 In Normal mode:
 
